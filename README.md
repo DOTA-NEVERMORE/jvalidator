@@ -1,4 +1,4 @@
-jvalidator
+﻿jvalidator
 =======================
 
 ### Change Log ###
@@ -167,4 +167,10 @@ http://gist.corp.qunar.com/hao.lin/jvalidator/demo/index.html
 jvalidator的规则解析器依赖了jison，需要修改的时候请重新执行
 
     jison src/RuleParser.jison -m js -o src/RuleParser.js 
+
+
+
+
+
+阿打算试试撒打算打算
 
